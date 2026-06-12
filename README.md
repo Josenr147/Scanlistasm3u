@@ -2,7 +2,7 @@
 Escaner listas m3u
 
 
-git clone https://github.com/Samuel93t/Scanlistasm3y
+git clone https://github.com/Josenr147/Scanlistasm3y
 
 cd Scanlistasm3y
 
